@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-app2/static/css/main.88d57f2e.css",
-    "main.js": "/react-portfolio-app2/static/js/main.0c4b6e3c.js",
+    "main.js": "/react-portfolio-app2/static/js/main.c869c23f.js",
     "static/media/webdev1.jpg": "/react-portfolio-app2/static/media/webdev1.04e234cbab55e2db4246.jpg",
     "static/media/gameboy-bg.jpg": "/react-portfolio-app2/static/media/gameboy-bg.d6881ce2173e6f27da39.jpg",
     "static/media/webdev2.jpg": "/react-portfolio-app2/static/media/webdev2.ce1bc343d487e0d73b1d.jpg",
@@ -12,10 +12,10 @@
     "static/media/sample-resume.pdf": "/react-portfolio-app2/static/media/sample-resume.f8f581ebc53d796c1468.pdf",
     "index.html": "/react-portfolio-app2/index.html",
     "main.88d57f2e.css.map": "/react-portfolio-app2/static/css/main.88d57f2e.css.map",
-    "main.0c4b6e3c.js.map": "/react-portfolio-app2/static/js/main.0c4b6e3c.js.map"
+    "main.c869c23f.js.map": "/react-portfolio-app2/static/js/main.c869c23f.js.map"
   },
   "entrypoints": [
     "static/css/main.88d57f2e.css",
-    "static/js/main.0c4b6e3c.js"
+    "static/js/main.c869c23f.js"
   ]
 }
